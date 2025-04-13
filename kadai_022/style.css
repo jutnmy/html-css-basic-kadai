@@ -74,7 +74,7 @@ footer a:visited {
   color: rgb(193, 234, 251);
 }
 
-footer :active {
+footer :hover {
   color: rgb(245, 178, 168);
 }
 
